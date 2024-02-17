@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-18T01:00:51 IST" name="Default suite" finished-at="2024-02-18T01:00:54 IST" duration-ms="2975">
+  <suite started-at="2024-02-18T01:06:34 IST" name="Default suite" finished-at="2024-02-18T01:06:37 IST" duration-ms="3028">
     <groups>
     </groups>
-    <test started-at="2024-02-18T01:00:51 IST" name="Default test" finished-at="2024-02-18T01:00:54 IST" duration-ms="2975">
+    <test started-at="2024-02-18T01:06:34 IST" name="Default test" finished-at="2024-02-18T01:06:37 IST" duration-ms="3028">
       <class name="Tests.IntroToRestAssured">
-        <test-method signature="validateGetProducts()[pri:0, instance:Tests.IntroToRestAssured@51e69659]" started-at="2024-02-18T01:00:51 IST" name="validateGetProducts" finished-at="2024-02-18T01:00:54 IST" duration-ms="2919" status="PASS">
+        <test-method signature="validateGetProducts()[pri:0, instance:Tests.IntroToRestAssured@6404f418]" started-at="2024-02-18T01:06:34 IST" name="validateGetProducts" finished-at="2024-02-18T01:06:37 IST" duration-ms="2963" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateGetProducts -->

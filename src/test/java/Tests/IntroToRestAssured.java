@@ -16,6 +16,7 @@ public class IntroToRestAssured {
 		Response res = RestAssured.get("https://api.escuelajs.co/api/v1/products");
 		System.out.println(res.statusCode());
 		System.out.println(res.getTime());
+		System.out.println(res.getContentType());
 	}
 
 }
